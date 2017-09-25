@@ -34,7 +34,16 @@ Please complete the following steps:
     In your e-mail, also include the link to your github repository
     in your account with the modified copy of this file.
 
---------------------------
-
-Add your message here.
-
+-------------------------
+List of countries France borders:
+(a country borders France for this purpose if it shares a land border with one of France's départments)
+Belgium
+Luxembourg
+Germany
+Switzerland
+Italy
+Monaco
+Spain
+Andorra
+Brazil
+Suriname
